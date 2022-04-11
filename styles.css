@@ -1,0 +1,45 @@
+h1 {
+color: rgb(46, 161, 31);
+}
+
+ol {
+border: 5px;
+text-align: center;
+list-style: none;
+padding-left: 0%;
+width: 50%;
+margin: auto;
+
+
+
+
+}
+
+ol li {
+    border: 3px outset;
+    display: inline-block;
+
+
+
+}
+
+#pic1 {
+
+margin: auto;
+size: 50%;
+}
+
+
+#pic2 {
+
+margin: auto;
+size: 50%;
+
+}
+
+
+#pic3 {
+
+margin: auto;
+size: 50%;
+}
