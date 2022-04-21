@@ -23,14 +23,14 @@ ol li {
 
 }
 
-#pic1 {
+.pic1 {
 
 margin: auto;
 size: 50%;
 }
 
 
-#pic2 {
+.pic2 {
 
 margin: auto;
 size: 50%;
@@ -38,7 +38,7 @@ size: 50%;
 }
 
 
-#pic3 {
+.pic3 {
 
 margin: auto;
 size: 50%;
